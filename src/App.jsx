@@ -14,17 +14,21 @@ import { UserGreeting } from "./components/Propcomp";
 import React from "react";
 import "./App.css";
 function App() {
-  // return <Hello />;
-  // return <Fruits />;
-  // return <Inline />;
-  // return <Square />;
-  // return <Time />;
-  // return <Day />;
-  // return <Prime />;
-  // return <Tc />;
-  // return <ReversePalindrome />;
-  // return <Random />;
-  // return <LeapYearCheck />;
-  return <UserGreeting firstName="Abhishek" lastName="S" />;
+  return (
+    <>
+      <Hello />;
+      <Fruits />;
+      <Inline />;
+      <Square />;
+      <Time />;
+      <Day />;
+      <Prime />;
+      <Tc />;
+      <ReversePalindrome />;
+      <Random />;
+      <LeapYearCheck />;
+      <UserGreeting firstName="Harishankar" lastName="R" />;
+    </>
+  );
 }
 export default App;
