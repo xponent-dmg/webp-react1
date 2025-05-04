@@ -16,18 +16,18 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Hello />;
-      <Fruits />;
-      <Inline />;
-      <Square />;
-      <Time />;
-      <Day />;
-      <Prime />;
-      <Tc />;
-      <ReversePalindrome />;
-      <Random />;
-      <LeapYearCheck />;
-      <UserGreeting firstName="Harishankar" lastName="R" />;
+      <Hello />
+      <Fruits />
+      <Inline />
+      <Square />
+      <Time />
+      <Day />
+      <Prime />
+      <Tc />
+      <ReversePalindrome />
+      <Random />
+      <LeapYearCheck />
+      <UserGreeting firstName="Harishankar" lastName="R" />
     </>
   );
 }
