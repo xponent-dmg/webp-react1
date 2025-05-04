@@ -1,6 +1,6 @@
 import { Hello } from "./components/Hello.jsx";
 import { Fruits } from "./components/Fruits.jsx";
-// import { Inline } from "./components/Inline.jsx";
+import { Inline } from "./components/Inline.jsx";
 import { Square } from "./components/Square";
 import { Time } from "./components/ternary";
 import { Day } from "./components/dynamic";
